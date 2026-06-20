@@ -18,6 +18,11 @@ I'm a Full Stack Engineer focused on building SaaS platforms, web applications, 
 - Scalable frontend applications
 - Practical software that solves real business problems
 
+
+## Featured project
+
+- 🏛️ [AI Parliament](https://github.com/GhaythBenAbid/ai-parliament) — a local CLI where multiple AI leader personas debate, vote, and synthesize practical decisions.
+
 ## Links
 
 - Website: https://ghaythbenabid.tn
